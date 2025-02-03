@@ -1,1 +1,2 @@
 notebook==7.3.2
+ipyparallel==8.8.0
